@@ -1,0 +1,173 @@
+.highlight {
+  overflow-x: scroll; }
+  .highlight .comment {
+    color: #969896; }
+  .highlight .string {
+    color: #183691; }
+  .highlight .keyword {
+    color: #a71d5d; }
+  .highlight .gutter,
+  .highlight .code {
+    vertical-align: top; }
+  .highlight .gutter {
+    background-color: inherit;
+    font-family: Menlo;
+    border: none;
+    padding: 0;
+    margin: 0;
+    background: #f7f8f8;
+    border-right: 1px solid #e6e6e6;
+    padding: 0.3em 15px;
+    cursor: text; }
+    .highlight .gutter .line {
+      color: #aaaaaa; }
+  .highlight.bash .code .shebang {
+    color: #969896; }
+  .highlight.bash .code .literal,
+  .highlight.bash .code .built_in {
+    color: #0086b3; }
+  .highlight.bash .code .variable {
+    color: #333; }
+  .highlight.bash .code .title {
+    color: #795da3; }
+  .highlight.css .code .at_rule,
+  .highlight.css .code .important,
+  .highlight.css .code .meta {
+    color: #a71d5d; }
+  .highlight.css .code .attribute,
+  .highlight.css .code .hexcolor,
+  .highlight.css .code .number,
+  .highlight.css .code .function {
+    color: #0086b3; }
+  .highlight.css .code .attr_selector,
+  .highlight.css .code .value {
+    color: #333; }
+  .highlight.css .code .id,
+  .highlight.css .code .class,
+  .highlight.css .code .pseudo,
+  .highlight.css .code .selector-pseudo {
+    color: #795da3; }
+  .highlight.css .code .tag,
+  .highlight.css .code .selector-tag {
+    color: #63a35c; }
+  .highlight.diff .code .chunk,
+  .highlight.diff .code .meta {
+    color: #795da3;
+    font-weight: bold; }
+  .highlight.diff .code .addition {
+    color: #55a532;
+    background-color: #eaffea; }
+  .highlight.diff .code .deletion {
+    color: #bd2c00;
+    background-color: #ffecec; }
+  .highlight.http .code .attribute,
+  .highlight.http .code .attr {
+    color: #183691; }
+  .highlight.http .code .literal {
+    color: #0086b3; }
+  .highlight.http .code .request {
+    color: #a71d5d; }
+  .highlight.js .code .built_in,
+  .highlight.js .code .title {
+    color: #795da3; }
+  .highlight.js .code .javadoc {
+    color: #969896; }
+  .highlight.js .code .tag,
+  .highlight.js .code .javadoctag {
+    color: #a71d5d; }
+  .highlight.js .code .tag .title {
+    color: #333; }
+  .highlight.js .code .regexp {
+    color: #df5000; }
+  .highlight.js .code .literal,
+  .highlight.js .code .number {
+    color: #0086b3; }
+  .highlight.json .code .attribute {
+    color: #183691; }
+  .highlight.json .code .number,
+  .highlight.json .code .literal {
+    color: #0086b3; }
+  .highlight.php .code .phpdoc,
+  .highlight.php .code .doctag {
+    color: #a71d5d; }
+  .highlight.php .code .regexp {
+    color: #df5000; }
+  .highlight.php .code .literal,
+  .highlight.php .code .number {
+    color: #0086b3; }
+  .highlight.php .code .title {
+    color: #795da3; }
+  .highlight.sql .built_in {
+    color: #a71d5d; }
+  .highlight.sql .number {
+    color: #0086b3; }
+  .highlight.xml .tag {
+    color: #333; }
+  .highlight.xml .value {
+    color: #183691; }
+  .highlight.xml .attribute,
+  .highlight.xml .attr {
+    color: #795da3; }
+  .highlight.xml .title,
+  .highlight.xml .name {
+    color: #63a35c; }
+  .highlight.less .tag,
+  .highlight.less .at_rule {
+    color: #a71d5d; }
+  .highlight.less .number,
+  .highlight.less .hexcolor,
+  .highlight.less .function,
+  .highlight.less .attribute {
+    color: #0086b3; }
+  .highlight.less .built_in {
+    color: #df5000; }
+  .highlight.less .id,
+  .highlight.less .pseudo,
+  .highlight.less .class,
+  .highlight.less .selector-id,
+  .highlight.less .selector-class,
+  .highlight.less .selector-tag {
+    color: #795da3; }
+  .highlight.scss .tag,
+  .highlight.scss .at_rule,
+  .highlight.scss .important {
+    color: #a71d5d; }
+  .highlight.scss .number,
+  .highlight.scss .hexcolor,
+  .highlight.scss .function,
+  .highlight.scss .attribute {
+    color: #0086b3; }
+  .highlight.scss .variable {
+    color: #333; }
+  .highlight.scss .built_in {
+    color: #df5000; }
+  .highlight.scss .id,
+  .highlight.scss .pseudo,
+  .highlight.scss .class,
+  .highlight.scss .preprocessor,
+  .highlight.scss .selector-class,
+  .highlight.scss .selector-id {
+    color: #795da3; }
+  .highlight.scss .tag,
+  .highlight.scss .selector-tag {
+    color: #63a35c; }
+  .highlight.yml .line,
+  .highlight.yml .attr {
+    color: #63a35c; }
+  .highlight.yml .line,
+  .highlight.yml .string,
+  .highlight.yml .type,
+  .highlight.yml .literal,
+  .highlight.yml .meta {
+    color: #183691; }
+  .highlight.yml .number {
+    color: #0086b3; }
+  .highlight .disabled,
+  .highlight .disabled .attr,
+  .highlight .disabled .line,
+  .highlight .disabled .string,
+  .highlight .disabled .type,
+  .highlight .disabled .literal,
+  .highlight .disabled .meta,
+  .highlight .disabled .number {
+    color: #e6e6e6 !important; }
